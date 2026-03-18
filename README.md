@@ -5,12 +5,38 @@
 </p>
 
 <p align="center">
+  <img src="URL_DE_TU_FOTO" width="140" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  💻 Java Backend Developer from Tenerife 🇮🇨  
+  🔐 Passionate about secure coding & cybersecurity  
+  🚀 Open to remote opportunities  
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Learner;Cybersecurity+Enthusiast;Open+to+Remote+Work"/>
 </p>
 
 ---
 
 ## 🧠 About Me
+
+Hi! I'm Jonay, a junior developer specialized in Java and currently studying Computer Engineering.
+
+I started my journey with a Higher Degree in Multiplatform Application Development (DAM), where I built a strong foundation in programming and software development.
+
+Right now, I am focused on becoming a **Java Backend Developer using Spring Boot**, while also developing a strong interest in **cybersecurity and secure coding practices**.
+
+I enjoy solving problems, writing clean and maintainable code, and continuously improving my skills every day.
+
+🔐 I also hold the **eJPTv2 certification**, which gives me a security-oriented mindset when developing applications.
+
+🚀 My goal is to work in a professional environment where I can grow as a backend developer and build secure, scalable systems.
+
+---
+
+## 🧠 Developer Snapshot
 
 ~~~java
 class Jonay {
