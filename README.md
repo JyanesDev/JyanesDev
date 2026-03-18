@@ -53,11 +53,20 @@ class Jonay {
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,python,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,python,mysql,linux,git,github" />
 </p>
 
 ---
+## 🧰 Tools
 
+- IntelliJ IDEA
+- VS Code
+- Eclipse
+- Cursor
+- Antigravity
+- GitHub
+  
+---
 ## 🔐 Security Mindset
 
 <p align="center">
