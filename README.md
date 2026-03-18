@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="20210524_122540-1-2.JPG" width="140" style="border-radius:50%" />
+  <img src="20210524_122540-1-2.JPG" width="180" style="border-radius:50%; border: 3px solid white;" />
 </p>
 
 <p align="center">
