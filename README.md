@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="URL_DE_TU_FOTO" width="140" style="border-radius:50%" />
+  <img src="20210524_122540-1-2.JPG" width="140" style="border-radius:50%" />
 </p>
 
 <p align="center">
