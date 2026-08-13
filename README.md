@@ -57,6 +57,7 @@ class Jonay {
 </p>
 
 ---
+
 ## 🧰 Tools
 
 - IntelliJ IDEA
@@ -65,8 +66,33 @@ class Jonay {
 - Cursor
 - Antigravity
 - GitHub
-  
+
 ---
+
+## 📂 Projects by Category
+
+### ☕ Java & Backend Foundations
+
+| Project | Focus |
+|---|---|
+| **[java-data-structures-toolkit](https://github.com/JyanesDev/java-data-structures-toolkit)** | Java 21, arrays, matrices, algorithms and modular programming fundamentals |
+
+### 🧠 MMEIA — Reference Projects
+
+Real, runnable projects built to apply the **MMEIA software engineering methodology** to different software categories.
+
+| Category | Project | Focus |
+|---|---|---|
+| 🗃️ CRUD | **[mmeia-crud-product-management](https://github.com/JyanesDev/mmeia-crud-product-management)** | FastAPI, PostgreSQL, SQLAlchemy, Docker and CI |
+| 🔐 API | **[mmeia-secure-task-api](https://github.com/JyanesDev/mmeia-secure-task-api)** | JWT authentication and owner-based authorization |
+| 🏢 SaaS | **[mmeia-multitenant-workspaces](https://github.com/JyanesDev/mmeia-multitenant-workspaces)** | Multi-tenancy, RBAC and subscription-plan gating |
+| 🔌 MCP | **[mmeia-notes-mcp-server](https://github.com/JyanesDev/mmeia-notes-mcp-server)** | MCP server as an adapter over an existing API |
+| 🤖 RAG | **[mmeia-support-rag](https://github.com/JyanesDev/mmeia-support-rag)** | Chunking, embeddings, vector retrieval and verifiable LLM context |
+
+> The MMEIA methodology repositories are kept private; the public Reference Projects are the runnable portfolio implementations.
+
+---
+
 ## 🔐 Security Mindset
 
 <p align="center">
